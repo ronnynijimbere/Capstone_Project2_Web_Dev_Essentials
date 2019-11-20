@@ -1,0 +1,21 @@
+
+h1,h2 {
+   text-align: center;
+} 
+
+img {
+   display: block;
+   height: 250px;
+   width: 250px;
+}
+
+
+img {
+   filter: greyscale (90%);
+}
+
+.btn{
+	margin: 5px;
+}
+
+
